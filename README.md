@@ -4,8 +4,8 @@
 
 ![Picture of Devin](Devin.jpeg)
 
-Devin is very into *music* some of her favorite artists are _Sir Sly, Hot Flash Heat Wave, and Still Woozy_
-she likes to *sing*, play *guitar* and *dance*
+Devin is very into **music** some of her favorite artists are _Sir Sly, Hot Flash Heat Wave, and Still Woozy_
+she likes to **sing**, play **guitar** and **dance**
 
 Her favorite foods are...
 - sushi
@@ -16,4 +16,4 @@ Her favorite foods are...
 >"You've always had the power my dear, you just had to learn it for yourself."
 --* The Wizard of Oz
 
-[The Wizard of Oz]S(https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz)
+[The Wizard of Oz](https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz)
