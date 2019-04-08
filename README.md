@@ -1,19 +1,18 @@
 #Devin English
-## The University of Washington
-## Freshman(2019)
+# Devin English
+## University of Washington
+### Freshman (2019)
 
+![Picture of Devin](Devin.jpeg)
 
-# Lab Exercise
-Using the text-edit of your choice (e.g., Atom), create a new file called `PROFILE.md`.
+Devin is very into *music* some of her favorite artists are _Sir Sly, Hot Flash Heat Wave, and Still Woozy_
+she likes to *sing*, play *guitar* and *dance*
 
-In this exercise, you will create a mini profile of yourself.
+Her favorite foods are...
+- sushi
+- ice cream
+- ramen
+- terriyaki
 
-In your `PROFILE.md` document, format a title as header with your name as H1, University of Washington as H2, and your class standing as H3
-
-Next, you will insert a photo of yourself using **relative path**.
-
-Then, write a little description about yourself with at least 2 different format stylings like **bold**, or *italicized*.
-
-Next, rank your favorite foods in an **unordered** list.
-
-Lastly, put your favorite quote in a block quote, and provide a link to a website that provides additional information about the quote.
+>"You've always had the power my dear, you just had to learn it for yourself."
+--* [The Wizard of] (https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz)
