@@ -2,7 +2,7 @@
 ## University of Washington
 ### Freshman (2019)
 
-![Picture of Devin](Devin.jpeg)
+![Picture of Devin](Devin.jpg)
 
 Devin is very into **music** some of her favorite artists are _Sir Sly, Hot Flash Heat Wave, and Still Woozy_
 she likes to **sing**, play **guitar** and **dance**
