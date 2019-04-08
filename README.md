@@ -4,8 +4,8 @@
 
 ![Picture of Devin](Devin.jpg)
 
-Devin is very into **music** some of her favorite artists are _Sir Sly, Hot Flash Heat Wave, and Still Woozy_
-she likes to **sing**, play **guitar** and **dance**
+Devin is very into **music**, some of her favorite artists are: _Sir Sly, Hot Flash Heat Wave, and Still Woozy_
+Devin also likes to **sing**, play **guitar** and **dance**.
 
 Her favorite foods are...
 - sushi
