@@ -1,4 +1,3 @@
-#Devin English
 # Devin English
 ## University of Washington
 ### Freshman (2019)
@@ -15,4 +14,6 @@ Her favorite foods are...
 - terriyaki
 
 >"You've always had the power my dear, you just had to learn it for yourself."
---* [The Wizard of] (https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz)
+--* The Wizard of Oz
+
+[The Wizard of Oz]S(https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz)
